@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ladyjhen.github.io/goit-expenses-tracker/",
+  "homepage": "https://louis-severino-romano.github.io/react-redux-expenses-tracker/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.2",
     "@reduxjs/toolkit": "^1.9.7",
